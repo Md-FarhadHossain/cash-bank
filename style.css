@@ -1,0 +1,27 @@
+.login-area{
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+    border-radius: 11px;
+    margin-top: 30px;
+}
+.transition-area{
+    display: none;
+}
+.money-area{
+    display: flex;
+}
+.status{
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+.deposit{
+    background: slateblue;
+}
+.withdraw{
+    background: lightsalmon;
+}
+.blance{
+    background: orange;
+}
